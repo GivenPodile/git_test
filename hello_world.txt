@@ -1,2 +1,2 @@
 Hello Odin, Its Kamogelo
-"Just checking if i still remember the basic git syntax"
+"Just checking if i still Remember The basic git Syntax"
